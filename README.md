@@ -1,15 +1,16 @@
 # WEB APPLICATION SCANNER FOR SQL INJECTION & XSS 
-*COMPANY*: CODETECH IT SOLUTIONS
 
-*NAME*: ALAHU GOPAL M
+COMPANY: CODETECH IT SOLUTIONS
 
-*INTERN ID*: CT04DR3219
+NAME: VIGNESH KUMAR S
 
-*DOMAIN NAME*: CYBERSECURITY AND ETHICAL HACKING
+INTERN ID: DAD812A869B3BC77
 
-*DURATION*: 4 WEEKS
+DOMAIN NAME: CYBERSECURITY AND ETHICAL HACKING
 
-*MENTOR*: NEELA SANTHOSH
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH
 
 # DESCRIPTION
 WebGuard Scanner is a Python-powered web application vulnerability assessment tool built to identify common security weaknesses such as SQL Injection (SQLi) and Cross-Site Scripting (XSS). It automatically detects input forms, crawls linked pages, performs payload-based testing, and generates a detailed JSON report of potential vulnerabilities.
