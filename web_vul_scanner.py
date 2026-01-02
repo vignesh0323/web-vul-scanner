@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 WebGuard Scanner — basic SQLi + XSS scanner
-Author: Alahu Gopal M
+Author: Vignesh Kumar S
 """
 print(r'''
 ============================================
